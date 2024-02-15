@@ -1,2 +1,2 @@
 # development
-development repository
+development repository telugu
